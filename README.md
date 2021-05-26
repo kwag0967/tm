@@ -10,9 +10,12 @@ Teachable Machine Image Project
 ## 이미지 프로젝트
 >[Teachable Machine](https://teachablemachine.withgoogle.com/)
 >>이미지 프로젝트 선택 : https://teachablemachine.withgoogle.com/models/-gj22kCJK/ 
-[Git Hub]
-
-
+## 사진 모으기
+|개 종류|사진 개수|
+|--|--|
+|시바견|약 150장|
+|시베리안 허스키|약 150장|
+|불독|약150장|
 
 
 
