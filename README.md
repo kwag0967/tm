@@ -1,11 +1,16 @@
+Teachable Machine Image Project
+================================
 # :dog:개와 닮은 얼굴 찾기:dog:
-~~~
+```
 평소에 개에 관심이 있어서 나는 어떤 종류의 개의 얼굴과 비슷할까?라는 생각으로 선정하였다.
+```
 ~~~
-
-
-
-
+작성하면서 어떻게 인공지능을 학습시키고, 어떻게 사진을 모으는등 새로운 것들을 알게 되어 유용한 시간이였던 것 같다.
+~~~
+## 이미지 프로젝트
+>[Teachable Machine](https://teachablemachine.withgoogle.com/)
+>>이미지 프로젝트 선택 : https://teachablemachine.withgoogle.com/models/-gj22kCJK/ 
+[Git Hub]
 
 
 
