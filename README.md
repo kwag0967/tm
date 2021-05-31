@@ -10,14 +10,15 @@ Teachable Machine Image Project
 ## 이미지 프로젝트
 >[Teachable Machine](https://teachablemachine.withgoogle.com/)
 >>이미지 프로젝트 선택 : https://teachablemachine.withgoogle.com/models/-gj22kCJK/ 
-
-## 사진 모으기
+## 작성 방법
+### 1.사진 모으기
 |개 종류|사진 개수|
 |--|--|
 |시바견|약 150장|
 |시베리안 허스키|약 150장|
 |불독|약150장|
-
+### 2.사진 저장하기
+### 3. Teachable Machine 학습
 
 
 # 인공지능 모델 만들기: Teachable machine
