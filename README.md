@@ -19,7 +19,7 @@ Teachable Machine Image Project
 
 ## 이미지 프로젝트
 >[Teachable Machine](https://teachablemachine.withgoogle.com/)
->>이미지 프로젝트 선택 : https://teachablemachine.withgoogle.com/models/-gj22kCJK/
+>>이미지 프로젝트 선택 :  https://kwag0967.github.io/tm/
 
 # 인공지능 모델 만들기: Teachable machine
 ## 날짜-5/20
