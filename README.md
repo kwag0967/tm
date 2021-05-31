@@ -18,7 +18,7 @@ Teachable Machine Image Project
 |시베리안 허스키|약 150장|
 |불독|약150장|
 ### 2.사진 저장하기
-### 3. Teachable Machine 학습
+### 3. Teachable Machine 학습시키기
 
 
 # 인공지능 모델 만들기: Teachable machine
