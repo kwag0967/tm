@@ -6,10 +6,7 @@ Teachable Machine Image Project
 ```
 ~~~
 작성하면서 어떻게 인공지능을 학습시키고, 어떻게 사진을 모으는등 새로운 것들을 알게 되어 유용한 시간이였던 것 같다.
-~~~
-## 이미지 프로젝트
->[Teachable Machine](https://teachablemachine.withgoogle.com/)
->>이미지 프로젝트 선택 : https://teachablemachine.withgoogle.com/models/-gj22kCJK/ 
+~~~ 
 ## 작성 방법
 ### 1.사진 모으기
 |개 종류|사진 개수|
@@ -20,6 +17,9 @@ Teachable Machine Image Project
 ### 2.사진 저장하기
 ### 3. Teachable Machine 학습시키기
 
+## 이미지 프로젝트
+>[Teachable Machine](https://teachablemachine.withgoogle.com/)
+>>이미지 프로젝트 선택 : https://teachablemachine.withgoogle.com/models/-gj22kCJK/
 
 # 인공지능 모델 만들기: Teachable machine
 ## 날짜-5/20
