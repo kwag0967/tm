@@ -10,6 +10,7 @@ Teachable Machine Image Project
 ## 이미지 프로젝트
 >[Teachable Machine](https://teachablemachine.withgoogle.com/)
 >>이미지 프로젝트 선택 : https://teachablemachine.withgoogle.com/models/-gj22kCJK/ 
+
 ## 사진 모으기
 |개 종류|사진 개수|
 |--|--|
